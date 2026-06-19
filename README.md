@@ -13,7 +13,7 @@
 
 **`Desenvolvedor Web`**
 
-Me chamo Gelson Chissanda, tenho 22 anos e sou natural de Luanda, Angola. Concluí o ensino médio no Jos Chris, com o curso técnico em Informática. Atualmente, estou me aperfeiçoando em Desenvolvimento Web Full-Stack pelo DevClub, buscando criar soluções digitais cada vez mais eficientes e funcionais.
+Me chamo Gelson Chissanda, tenho 23 anos e sou natural de Luanda, Angola. Concluí o ensino médio no Jos Chris, com o curso técnico em Informática. Atualmente, estou me aperfeiçoando em Desenvolvimento Web Full-Stack pelo DevClub, buscando criar soluções digitais cada vez mais eficientes e funcionais.
 
 Sou um entusiasta por tecnologia e experiência do usuário, sempre procurando desenvolver códigos e projetos que sejam úteis em cenários reais e que tragam impacto positivo para quem os utiliza.
 
